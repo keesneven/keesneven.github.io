@@ -314,7 +314,11 @@ h4 {
 }
 
 .circle h2 {
-  padding-top: 41%;
+  padding-top: 35%;
+}
+
+.circle p {
+  margin-top: -12px;
 }
 
 .overlay {
