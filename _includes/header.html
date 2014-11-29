@@ -6,11 +6,17 @@
 
     <nav class="site-nav">
       <div class="trigger">
-        {% for page in site.pages %}
+
+        <a class="page-link" href="{{ '/visie/' | prepend: site.url }}">Visie</a>
+        <a class="page-link" href="{{ '/about/' | prepend: site.url }}">Over KNOT</a>
+        <a class="page-link" href="{{ '/contact/' | prepend: site.url }}">Contact</a>
+
+
+      <!--   {% for page in site.pages %}
           {% if page.title %}
           <a class="page-link" href="{{ page.url | prepend: site.url }}">{{ page.title }}</a>
           {% endif %}
-        {% endfor %}
+        {% endfor %} -->
       </div>
     </nav>
 
