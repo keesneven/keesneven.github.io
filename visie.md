@@ -41,7 +41,7 @@ Zolang er wortels in de grond zitten, er water en zonlicht is lopen nieuwe loten
 Zoals een Knotwilg om de paar jaar al zijn takken kwijtraakt, zo hebben mensen ook wel eens het gevoel dat ze keer op keer opnieuw moeten beginnen. 
 
 Mensen helpen om opnieuw te beginnen; 
-* Om na een moeilijke periode opnieuw kracht te vinden om verder te gaan. 
-* Om nieuwe initiatieven te vinden. 
-* Om opnieuw uit te lopen en weer stevig te wortelen. 
-* Om moeilijkheden te helpen overwinnen, dat mijn de visie en missie die ik terugzie in het beeld van de KNOTwilg. 
+- Om na een moeilijke periode opnieuw kracht te vinden om verder te gaan. 
+- Om nieuwe initiatieven te vinden. 
+- Om opnieuw uit te lopen en weer stevig te wortelen. 
+- Om moeilijkheden te helpen overwinnen, dat is mijn visie en missie die ik terugzie in het beeld van de KNOTwilg. 
