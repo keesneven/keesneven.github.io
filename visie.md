@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Visie
-permalink: /Visie/
+permalink: /visie/
 ---
 
 #### Mensbeeld
