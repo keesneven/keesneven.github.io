@@ -3,9 +3,9 @@ title: KNOT
 subtitle: Kees Neven Ontwikkeling en Training
 email: info@knot.consulting
 description: > # this means to ignore newlines until "baseurl:"
-  KNOT is een consulting en adviesbureau en helpt u om uw identiteit, 
+  KNOT is een consulting en trainingbureau en helpt u om uw identiteit, 
   visie en missie te verbinden aan 
-  bereikbare doelen en hindernissen op uw pad te overwinnen.
+  bereikbare doelen en de hindernissen op uw pad te overwinnen.
 baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "http://www.knot.consulting" # the base hostname & protocol for your site
 twitter_username: jekyllrb
