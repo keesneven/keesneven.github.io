@@ -3,39 +3,26 @@ layout: page
 title: Over Mij
 permalink: /about/
 ---
-#### Waar zijn we goed in?
-Mensen helpen om vanuit hun mogelijkheden naar hun bestemming te laten kijken, zodat ze de aanwezige kracht, kwaliteiten, mogelijkheden, talenten en gaven inzetten om hun opdracht te vervullen.
-Mensen helpen om hun knopen te ontdekken en ze coachen hoe ze deze kunnen ontwarren zodat ze weer verder kunnen groeien.
+
+In 1966 als oudste zoon geboren op een boerderij in Vlist en opgegroeid op de grens van de Krimpenerwaard en Lopikerwaard was ik voorbestemd om boer te worden. Ik had meer belangstelling voor vissen, kikkers en vogels dan voor koeien. Omdat ik ook graag knutselde en bouwde mocht ik naar de Technische School om timmerman te worden tot groot verdriet van de hoofdonderwijzer die mij graag zag doorleren op het atheneum.
+
+Tijdens de Middelbare Technische School werd ik vanwege ziekte van mijn vader alsnog voor twee jaar boer. Daarna vervulde ik mijn dienstplicht als bij het Korps Mariniers en diende 9 maanden in Curacao. Hier werd buiten diensttijd het eerste sociaal maatschappelijk project opgezet en uitgevoerd. De volgende carrière stap was ambtenaar bij de Dienst Muskusrattenbestrijding bij Provincie Zuid-Holland waar ik vijftien jaar gewerkt heb tot een enkelblessure dit onmogelijk maakte. Ik maakte een switch naar het sociaal werk door de opleiding voor Maatschappelijk Werker te volgen en bij Stichting de Hoop te gaan werken waar ik nu nog steeds werk
 
 
-#### Wat vinden we leuk?
-Mensen helpen om de losse eindjes te ontdekken en mogelijkheden om deze bij elkaar te brengen  zodat er iets nieuws tot stand komt.
-
-
-#### Wat is onze expertise?
-Onderscheiden en Adviseren bij vragen wat juist vastgemaakt moet worden en wat beter losgelaten kan worden.
-
-
-#### Wat hebben we gedaan? (Opleiding en ervaring)
-
-- MWD 
-- Post-HBO Management
-- Ervaring met opzetten van nieuwe projecten en vernieuwen van bestaande projecten
-- 8 jaar ervaring (team)leider jeugdwerk
-- 8 jaar ervaring als teamleider 
+#### Opleiding en ervaring
+- Bachelor Social Work (MWD)
+- Post HBO management
+- 8 jaar ervaring (team)leider Jeugdwerk
+- 8 jaar ervaring als teamleider bij de Hoop ggz 
 - 14 jaar ervaring met groepswerk in de psychiatrie en maatschappelijke opvang
-- Verzorgen van spreekbeurten, trainingen en workshops over groei en verandering en levensbeschouwing
-- Diverse korte cursussen en trainingen, oa. Train de trainers, sprekerstraining,
-- Bezig met Basiscursus Transformissioneel coachen (CC-Excellence)
+- Verzorgen van spreekbeurten, trainingen en workshops over groei en verandering
+- Diverse korte cursussen en trainingen, oa. Train de trainers, Sprekerstraining,
+- Ervaring met opzetten van nieuwe projecten en vernieuwen van bestaande projecten
+- Bezig met Basiscursus Transformissioneel Coachen (CC-Excellence)
 
-#### Wat kunnen wij
-- adviseren
-- coachen
-- counselen
-- trainen
-- spreekbeurten verzorgen
+#### Wat kan ik  bieden?
+- individuele trajecten
+- groepstrajecten
+- trainingen voor groepen, leiders en teams
+- spreekbeurten
 
-* individuele trajecten
-* groepstrajecten
-* teamtrainingen
-* spreekbeurten
