@@ -378,3 +378,12 @@ h4 {
     @media screen and (max-width: 800px) {
       .post-content h4 {
         font-size: 18px; } }
+
+
+.contact-form input#input-name,
+.contact-form textarea {
+  height: 30px;
+  width: 200px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}

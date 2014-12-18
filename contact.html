@@ -3,22 +3,23 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-<form class="contact-form">
+<form class="contact-form" id="contact-form" action="mailto:gerbyzation@me.com">
 	<div>
 		<label for="name">Naam:</label>
 		<br>
-		<input type="text" name="name" id="input-name">		
+		<input type="text" name="name" id="input-name" required>		
 	</div>
 
 	<div>
 		<label for="email">Mailadres:</label>
 		<br>
-		<input type="email" name="email" id="input-mail">
+		<input type="email" name="email" id="input-mail" required>
 	</div>
 
 	<div>
 		<label for="message">Bericht:</label><br>
-		<textarea name="message" id="input-message"></textarea>
+		<textarea name="message" id="input-message"required></textarea>
 	</div>
+	<button form="contact-form">Verstuur</button>
 	
 </form>
