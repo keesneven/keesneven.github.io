@@ -4,35 +4,35 @@ title: E-coaching
 permalink: /diensten/e-coaching/
 ---
 
-**Een goede coacht helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn.** 
+**Een goede coach helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn.** 
 
-**Een E-Coach doet dit op afstand en maakt gebruik van de elektronische digitale mogelijkheden van deze tijd.**
+**Een E-coach doet dit op afstand en maakt gebruik van de digitale mogelijkheden van deze tijd.**
 
-E-coachen via Email of Skype is een alternatief als afstand een obstakel, tijd een beperkende factor en agenda ruimte een belemmering is.
-Een persoonlijke ontmoeting met de coach heeft altijd voorkeur en E-Coachen is een goed alternatief en ook geschikt voor de meeste coach onderwerpen.
+E-coaching via e-mail of Skype is een alternatief als afstand een obstakel, tijd een beperkende factor en agendaruimte een belemmering is.
+Een persoonlijke ontmoeting met de coach heeft altijd voorkeur en e-coaching is een goed alternatief en ook geschikt voor de meeste coach onderwerpen.
 Het heeft wel de voorkeur om de coach een keer in levende lijve te ontmoeten om het coachen via Skype effectiever te maken
 
 Een coachingsvraag hoeft nog niet helder te zijn, enkele voorbeelden waar je aan denken kunt vind je hieronder:
 
 #### Persoonlijke ontwikkeling:
 - Ik wil zicht krijgen op verder ontwikkeling en mogelijkheden met mijn talenten en kwaliteiten.
-- Ik wil mijn gedrag beter leren begrijpen en mogelijk veranderen
+- Ik wil mijn gedrag beter leren begrijpen en eventueel veranderen
 - Ik heb het idee dat ik geleefd wordt en niet goed weet wie ik nu zelf ben en wat ik zelf wil
 - Ik doe wel veel, maar ik weet niet waar ik nu echt goed in ben en wat bij mij past.
-- Ik luister beter naar mijn gevoel leren luisteren zonder mijn verstand uit te schakelen.
+- Ik wil beter naar mijn gevoel leren luisteren zonder mijn verstand uit te schakelen.
 - Ik wil leren leven uit mijn hart en niet alleen voldoen aan de verwachting van mijn omgeving
 
 #### Relaties:
-- Ik steeds in conflict met een bepaald type personen en ik weet niet hoe dat dit komt. 
+- Ik kom steeds in conflict met een bepaald type personen en ik weet niet hoe dit komt. 
 - Ik heb het gevoel dat het steeds meer moeite kost om mezelf te kunnen zijn bij anderen.
-- Ik merk dat ik ander gedrag ga vertonen als ik bij anderen ben, gedrag wat ik helemaal niet wil en toch doe ik het.
+- Ik merk dat ik ander gedrag ga vertonen als ik bij anderen ben, gedrag wat ik helemaal niet wil en toch doe.
 - Het lukt mij niet goed om conflicten aan te gaan en goed op te lossen.
 
 #### Werk
 - Ik wil mij verder ontwikkelen op mijn werk.
-- Ik raak op mijn werk in conflict tussen wat ik wil en wat het bedrijf wil of nodig vind.
+- Ik raak op mijn werk in conflict tussen wat ik wil en wat het bedrijf wil of nodig vindt.
 - Ik zie de zin van mijn werk niet meer zo in.
-- Ik hoor alleen maar commentaar op mijn werk als er iets misgaat, ik hoor niet wat er goed gaat en dat maakt mij onzeker
+- Ik hoor alleen maar commentaar op mijn werk als er iets misgaat, ik hoor niet wat er goed gaat en dat maakt mij onzeker.
 - Er wordt steeds meer gevraagd van mij en ik merk dat dit thuis problemen geeft.
 - Ik ben bang om mijn werk kwijt te raken en om te veranderen.
 - Ik wil groeien in mijn werk, maar het lukt mij niet alleen.
@@ -42,7 +42,7 @@ Een coachingsvraag hoeft nog niet helder te zijn, enkele voorbeelden waar je aan
 - Ik wil van betekenis zijn en wil ontdekken wat bij mij past
 het lukt mij niet om mijn geloof een plaats te geven in mijn dagelijks leven.
 - Ik twijfel steeds of ik wel op de goede plaats bezig ben
-- ik heb het niet meer naar mijn zin.
+- Ik heb het niet meer naar mijn zin.
 
 Een coachingstraject start bij jouw coachingsvragen.
 

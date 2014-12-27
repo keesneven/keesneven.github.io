@@ -4,19 +4,19 @@ title: Spreken
 permalink: /diensten/spreken/
 ---
 
-**Een goede spreker neemt zijn luisteraars mee naar een nieuw gebied.**
-De oudste vorm van communiceren en informatieoverdracht is waarschijnlijk spreken. Een spreker kan een groep in een keer informatie geven, kennis overdragen of onderhouden.
-Een spreker voor een groep kan het doel hebben om je motiveren om iets van waarde te koesteren of juist tot verandering te brengen. Hij kan ook nieuwe inzichten en kennis overbrengen en uitleggen die bruikbaar is voor deze groep. Een spreker kan de groep helpen om te groeien en te ontwikkelen.
+**Een goede spreker neemt zijn luisteraars mee naar een nieuw gebied.**  
+De oudste vorm van communiceren en informatieoverdracht is waarschijnlijk spreken. Een spreker kan een groep in één keer informatie geven, kennis overdragen of onderhouden.
+Een spreker voor een groep kan het doel hebben om je motiveren om iets van waarde te koesteren of juist tot verandering te brengen. Hij kan ook nieuwe inzichten aanrijken en kennis overbrengen en uitleggen die bruikbaar is voor deze groep. Een spreker kan de groep helpen om te groeien en te ontwikkelen.
 
-Mensen kunnen hun hele leven blijven ontwikkelen en veranderen als zij dit willen. Een goede verhaal van een spreker kan de aanzet zijn tot verandering maar ook motiveren om door te gaan tijdens verandering en ontwikkeling.
+Mensen kunnen hun hele leven blijven ontwikkelen en veranderen als zij dit willen. Een goede verhaal van een spreker kan de aanzet zijn tot verandering maar ook motiveren om door te zetten tijdens verandering en ontwikkeling.
 
-Iedere tijd is anders en heeft zijn eigen vragen en kansen. Een spreken die zijn publiek in enthousiasmeren en motiveren om te ontwikkelen zodat het leven met passie geleefd kan worden is effectief. 
+Iedere tijd is anders en heeft zijn eigen vragen en kansen. Een spreken die zijn publiek kan enthousiasmeren en motiveren om te ontwikkelen, zodat het leven met passie geleefd kan worden, is effectief. 
 
 De boodschap die overgebracht is kan ondersteund worden door training of coaching, of counseling indien er (geestelijke) barrières te overwinnen zijn.
 
 #### Spreken kan over diverse onderwerpen gaan zoals:
 - De ontwikkelingsfases van de mens en zijn persoonlijke groei.
-- Vriendschappen, relaties, huwelijken seksualiteit.
+- Vriendschappen, relaties, huwelijk en seksualiteit.
 - Omgaan met maatschappelijke en sociale vraagstukken.
 - Omgaan met belemmeringen en hindernissen.
 - Principes van groei en verandering

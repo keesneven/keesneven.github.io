@@ -11,7 +11,7 @@ Tijdens de Middelbare Technische School werd ik vanwege ziekte van mijn vader al
 
 #### Opleiding en ervaring
 - Bachelor Social Work (MWD)
-- Post HBO management
+- Post HBO: Management voor non-profit organisaties
 - 8 jaar ervaring (team)leider Jeugdwerk
 - 8 jaar ervaring als teamleider bij de Hoop ggz 
 - 14 jaar ervaring met groepswerk in de psychiatrie en maatschappelijke opvang
@@ -21,8 +21,8 @@ Tijdens de Middelbare Technische School werd ik vanwege ziekte van mijn vader al
 - Bezig met Basiscursus Transformissioneel Coachen (CC-Excellence)
 
 #### Wat kan ik  bieden?
-- individuele trajecten
-- groepstrajecten
-- trainingen voor groepen, leiders en teams
-- spreekbeurten
+- Individuele trajecten
+- Groepstrajecten
+- Trainingen voor groepen, leiders en teams
+- Spreekbeurten
 
