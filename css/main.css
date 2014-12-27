@@ -380,7 +380,7 @@ h4 {
         font-size: 18px; } }
 
 
-.contact-form input#input-name,
+.contact-form input,
 .contact-form textarea {
   height: 30px;
   width: 200px;
