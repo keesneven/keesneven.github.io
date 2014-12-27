@@ -1,0 +1,92 @@
+- name: Advies
+  slug: Goede raad helpt om te kiezen
+  description: 
+    "<p>De goede raad van een adviseur helpt jou om het juiste pad te kiezen.<br>
+      Een droom, missie of opdracht verwezenlijken kan vaak op verschillende manieren.<br>
+      Een doel kan vaak via verschillende routes bereikt worden.<br>
+      Een verandering kan op meerdere manieren in beweging gezet worden.<br>
+      Een probleem kan vaak op verschillende manieren opgelost worden.<br>
+    </p>
+    <p>
+      Een goed advies leidt naar een succesvol plan met meer kans van slagen.<br>
+      Een advies om op de juiste manier om te gaan met onomkeerbare zaken zoals een ingrijpend verlies is ook een vorm van adviseren.
+    </p>"
+  link: /diensten/advies/
+
+- name: Coachen
+  slug: Van hier naar daar
+  description: 
+    "<p>
+      <strong>Een goede coacht helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn.</strong>
+    </p> 
+
+    <p>
+      Coaching is motivatie op gang brengen om te veranderen en jou te helpen om te komen je wil zijn. Dit kan een ideaal, een droom, doel of bestemming zijn.
+      Samen sta je sterken twee weten meer dan een. Iedereen heeft bevestiging en aanmoedig nodig en dit geldt zeker als je iets wilt bereiken of veranderen. Dit zien we in de topsport en dat geld ook bij het bereiken van andere doelen. We hebben als mens iemand nodig die ons zelf laat ontdekken waar we goed in zijn, wat we goed kunnen en wat we belangrijk vinden.
+    </p>
+
+    <p>
+      Soms is coaching ook nodig om moeilijkheden te overwinnen. De problemen waar we mee te maken krijgen worden complexer van aard in de huidige tijd. Een goede coach helpt je optimaal om goed door de problemen heen te komen of om een goede weg te vinden om er mee om te gaan.
+    </p>"
+  link: /diensten/coaching/
+
+- name: Counseling
+  slug: De weg naar herstel
+  description: 
+    "<p>
+      <strong>Een goede counselor helpt je om jezelf weer terug te vinden bij ingrijpende gebeurtenissen.</strong>
+    </p>
+    <p>
+      Het kan zomaar gebeuren dat je in de knoop raakt met jezelf, met een ander of een Ander. Het kan zijn dat je beschadigd bent geraakt, mentaal of geestelijk. Belangrijke levensgebeurtenissen als bijvoorbeeld geboorten of sterfgevallen, trouwen of scheiden, ander werk of verhuizen, ziekte of werkeloosheid kunnen je danig uit je evenwicht brengen.
+      Zoals de coach kan helpen om de knoop te ontwarren,  zo kan de counselor helpen om zelf tot herstel te komen. Herstelprocessen kunnen kort zijn maar ook lang duren, afhankelijk hoe de verstoringen of beschadigingen zijn ontstaan en welke impact ze hebben gehad. De counselor helpt om tot herstel en genezing te komen of om te aanvaarden wat onveranderbaar is.
+    </p>"
+  link:
+
+- name: Training
+  slug: De weg van verandering
+  description: 
+    "<p>
+      <strong>Een goede trainer leert jou hoe jij kunt veranderen</strong>
+    </p>
+    <p>
+      Als je iets wilt bereiken heb je daar kennis, ervaring en skills voor nodig. Trainingen kunnen jou nieuwe inzichten geven en je nieuwe houdingen en vaardigheden leren gebruiken en toe te passen.
+    </p>
+    <p>
+      Trainingen kunnen over allerlei onderwerpen gaan en zowel individueel als in groepsverband gegeven worden. Het kan persoonlijk of teamgericht zijn. Niets gaat vanzelf, maar bijna alles is te leren.
+    </p>"
+  link: /diensten/training/
+
+- name: Spreken
+  slug: Overdracht voor groei
+  description: 
+    "<p>
+      <strong>Een goede spreker neemt zijn luisteraars mee naar een nieuw gebied.</strong>
+    </p>
+    <p>
+      De oudste vorm van communiceren en informatieoverdracht is waarschijnlijk spreken. Een spreker kan een groep in een keer informatie geven, kennis overdragen of onderhouden.
+    </p>
+
+    <p>
+      Een spreker voor een groep kan het doel hebben om je motiveren om iets van waarde te koesteren of juist tot verandering te brengen. Hij kan ook nieuwe inzichten en kennis overbrengen en uitleggen die bruikbaar is voor deze groep. Een spreker kan de groep helpen om te groeien en te ontwikkelen.
+    </p>"
+  link: /diensten/spreken/
+
+- name: E-Coaching
+  slug: (In ontwikkeling)
+  description: 
+    "<p>
+      <strong>Een goede coach helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn.</strong> 
+    </p>
+
+    <p>
+      <strong>Een E-Coach doet dit op afstand en maakt gebruik van de elektronische digitale mogelijkheden van deze tijd.</strong>
+    </p>
+
+    <p>
+      E coachen via Email of Skype is een alternatief als afstand een obstakel, tijd een beperkende factor en agenda ruimte een belemmering is.
+      Een persoonlijke ontmoeting met de coach heeft altijd voorkeur en E-Coachen is een goed alternatief en ook geschikt voor de meeste coach onderwerpen.
+    </p>
+    <p>
+      Het heeft wel de voorkeur om de coach een keer in levende lijve te ontmoeten om het coachen via Skype effectiever te maken
+    </p>"
+  link: /diensten/e-coaching/

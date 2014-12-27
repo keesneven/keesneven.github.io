@@ -243,3 +243,107 @@
         }
     }
 }
+
+
+/**
+ * Home page picture
+ */
+.photo {
+  margin: 0.7em;
+  border-radius: 100%;
+  width: 250px;
+  float: right;
+}
+
+/**
+ * Custom CSS
+ */
+.buttonwrapper {
+  position: relative;
+  width: 680px;
+  height: 470px;
+}
+ 
+.circle-wrapper {
+  /*width: 680px;
+  height: 470px;
+  position: absolute;*/
+  overflow: hidden;
+  z-index: 0;
+
+  & .col {
+    float: left;
+    margin-bottom: 35px;
+    width: -webkit-calc(100% / 3;);
+    width: calc(100% / 3); 
+
+    &:nth-child(3n) {
+        padding-left: -webkit-calc(33.3333% - 200px);
+        padding-left: calc(33.3333% - 200px);
+    }
+
+    &:nth-child(3n+2) {
+        padding-left: calc( (33.3333% - 200px) / 2);
+    }
+
+    & .circle {
+        
+    }
+
+  }
+}
+
+.circle {
+    text-align: center;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    background: $grey-color;
+
+    &:hover {
+        background-color: #999;
+    }
+    
+    h2 {
+        padding-top: 35%;
+    }
+
+    p {
+        margin-top: -12px;
+    }
+}
+
+ 
+.overlay {
+  z-index: 10;
+  position: relative;
+  top: 0px;
+  background: lightblue;
+  padding: 25px;
+  width: 680px;
+  height: 470px;
+  /*opacity: 0;
+  transition: opacity 1s;*/
+}
+ 
+.x {
+  width: 30px;
+  height: 30px;
+  position: absolute;
+  right: 25px;
+  top: 25px;
+  background-color: red;
+  z-index: 20;
+
+  &:hover {
+    background-color: darkred;
+  }
+}
+
+.contact-form input,
+.contact-form textarea {
+  height: 30px;
+  width: 200px;
+  -webkit-border-radius: 10px;
+  border-radius: 10px;
+}
