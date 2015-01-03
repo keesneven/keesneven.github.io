@@ -2,8 +2,8 @@
  * Site header
  */
 .site-header {
-    border-top: 5px solid $grey-color-dark;
-    border-bottom: 1px solid $grey-color-light;
+    // border-top: 5px solid $grey-color-dark;
+    // border-bottom: 1px solid $grey-color-light;
     min-height: 56px;
 
     // Positioning context for the mobile navigation icon
@@ -17,9 +17,11 @@
     margin-bottom: 0;
     float: left;
 
+    font-weight: 500;
+
     &,
     &:visited {
-        color: $grey-color-dark;
+        color: $brand-color;
     }
 }
 
@@ -92,7 +94,8 @@
  * Site footer
  */
 .site-footer {
-    border-top: 1px solid $grey-color-light;
+    background: $brand-color;
+    // border-top: 1px solid $grey-color-light;
     padding: $spacing-unit 0;
 }
 
@@ -109,7 +112,7 @@
 
 .footer-col-wrapper {
     font-size: 15px;
-    color: $grey-color;
+    color: white;
     margin-left: -$spacing-unit / 2;
     @extend %clearfix;
 }
@@ -249,7 +252,8 @@
  * Home page picture
  */
 .photo {
-  margin: 0.7em;
+    border: 5px solid $brand-color;
+  margin: 0.3em;
   border-radius: 100%;
   width: 250px;
   float: right;
@@ -265,9 +269,6 @@
 }
  
 .circle-wrapper {
-  /*width: 680px;
-  height: 470px;
-  position: absolute;*/
   overflow: hidden;
   z-index: 0;
 
@@ -297,15 +298,21 @@
     text-align: center;
     width: 200px;
     height: 200px;
-    border-radius: 100%;
-    background: $grey-color;
+    border: 5px solid $brand-color;
+    // border-radius: 100%;
+    // background: $grey-color;
 
     &:hover {
-        background-color: #999;
+        background-color: $brand-color;
+        color: white;
     }
-    
+
+    &:hover 
     h2 {
-        padding-top: 35%;
+        color: white;
+    }
+    h2 {
+        padding-top: 30%;
     }
 
     p {
@@ -318,25 +325,33 @@
   z-index: 10;
   position: relative;
   top: 0px;
-  background: lightblue;
+  // background: lightblue;
   padding: 25px;
   width: 680px;
-  height: 470px;
+  // height: 500px;
   /*opacity: 0;
   transition: opacity 1s;*/
+  border: 5px solid $brand-color;
 }
  
 .x {
-  width: 30px;
-  height: 30px;
+  width: 34px;
+  height: 34px;
   position: absolute;
   right: 25px;
   top: 25px;
-  background-color: red;
+  // background-color: red;
+  border: 2px solid black;
   z-index: 20;
 
   &:hover {
-    background-color: darkred;
+    // background-color: darkred;
+    background: black;
+    color: white;
+  }
+
+  &:hover line {
+    stroke: white;
   }
 }
 

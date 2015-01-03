@@ -85,15 +85,19 @@ li {
  * Headings
  */
 h1, h2, h3, h4, h5, h6 {
-    font-weight: 300;
+    font-weight: 600;
+    color: $brand-color;
 }
 
 h4 {
   margin-top: 2em;
-  font-weight: 400;
+  font-weight: 600;
 }
  
-
+h5 {
+    font-weight: 600;
+    font-size: 1em;
+}
 
 
 /**
@@ -131,7 +135,13 @@ blockquote {
     }
 }
 
+/**
+ * Strong/bold text
+ */
 
+strong {
+    color: $brand-color;
+}
 
 /**
  * Wrapper

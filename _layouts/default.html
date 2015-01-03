@@ -4,10 +4,17 @@
   {% include head.html %}
 
   <body>
-
+    {% if page.img %}
+      {% include featured.html %}
+    {% endif %}
     {% include header.html %}
-
+  
     <div class="page-content">
+      {% if page.img-path %}
+        <div class="header-img-cont">
+            <img src="{{ page.img-path }}">
+        </div>
+      {% endif %}
       <div class="wrapper">
         {{ content }}
       </div>
