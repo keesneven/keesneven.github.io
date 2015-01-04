@@ -118,6 +118,29 @@ nav ul {
 	top: 0;
 	left: 0;
 	z-index: -100;
+	background: url(/assets/img/bg1.jpg) center center / cover no-repeat;
+}
+
+// Fix for vh units in iOS 7
+// iPad portrait
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
+	.header-img {
+		height: 1024px;
+	}
+}
+
+// iPad landscape
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape) {
+	.header-img {
+		height: 768px;
+	}
+}
+
+// iPhone 5
+@media screen and (device-aspect-ratio: 40/71) {
+	.header-img {
+		height: 500px;
+	}
 }
 
 .home .header {
@@ -138,6 +161,9 @@ nav ul {
 		background-color: white;
 		border: 5px solid $brand-color;
 	}
+
+
+
 }
 
 nav a {
