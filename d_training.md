@@ -2,6 +2,10 @@
 layout: page
 title: Training
 permalink: /diensten/training/
+img-path: /assets/img/bg4.jpg
+
+meta-desc: Een trainer leert je hoe jij kunt veranderen en iets nieuws kunt leren
+meta-tags: kwaliteiten, talenten, ervaringen, trainingen, persoonlijkheidstraining, conflicthantering, vaardigheidstraining, agressietraining, leiderstraining, teambuilding, geloof, geloofstraining. christelijke trainingen
 ---
 
 **Een goede trainer leert jou hoe jij kunt veranderen.**
@@ -18,7 +22,7 @@ Voor groepen kan het helpen om elkaars kracht te gaan leren benutten ipv de besc
 
 #### Bij trainingen kun je aan de volgende onderwerpen denken:
 - Sociale vaardigheidstraining.
-- conflicthantering.
+- Conflicthantering.
 - Omgaan met agressie.
 - Time managementtraining.
 - Trainers trainingen.

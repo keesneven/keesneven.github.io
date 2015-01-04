@@ -2,6 +2,10 @@
 layout: page
 title: E-coaching
 permalink: /diensten/e-coaching/
+img-path: /assets/img/bg2.jpg
+
+meta-desc: Met digitale media is het goed mogelijk om te coachen.
+meta-tags: e-coach, skype, facetime, coachingsvraag, persoonstype, conflicten, ondersteuning, coachingstraject, streefdoelen, moderne coach, tijd als obstakel, talent, kwaliteiten
 ---
 
 **Een goede coach helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn.** 

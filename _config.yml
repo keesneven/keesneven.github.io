@@ -6,6 +6,10 @@ description: > # this means to ignore newlines until "baseurl:"
   KNOT is een consulting en trainingbureau en helpt u om uw identiteit, 
   visie en missie te verbinden aan 
   bereikbare doelen en de hindernissen op uw pad te overwinnen.
+
+tags: overtuiging, missie, professioneel, droom, roeping, levensbeschouwing, ontwikkeling, advisering, counseling, coach, coachen, coaching, training, trainer, adviseur, christelijk, protestants, evangelisch, levensfase, persoonlijke begeleiding, organisatiecoach, teamcoach, groepscoach, relatiecoach, loopbaancoach, talentcoach, ontwikkelcoach
+
+
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 # url: "http://www.knot.consulting" # the base hostname & protocol for your site
 # twitter_username: jekyllrb

@@ -2,6 +2,10 @@
 layout: page
 title: Coaching
 permalink: /diensten/coaching/
+img-path: /assets/img/bg4.jpg
+
+meta-desc: Een coach helpt je om te komen van de plek waar je nu bent naar de plek waar je wilt zijn
+meta-tags: ontwikkelcoach, transformissioneel, transformationeel veranderen, motivatie, coachinsvraag, coachtraject, coachproces, droom, doelbepaling, bestemming, zingeving, streefdoelen, christelijke coach
 ---
 
 **Een goede coacht helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn**. 

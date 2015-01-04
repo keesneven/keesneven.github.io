@@ -1,7 +1,8 @@
 ---
 layout: page
-title: Consulting
-permalink: /diensten/consulting/
+title: Counseling
+permalink: /diensten/counseling/
+img-path: /assets/img/bg5.jpg
 ---
 
 **Een goede coacht helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn**. 

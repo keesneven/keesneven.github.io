@@ -11,8 +11,7 @@
   
     <div class="page-content">
       {% if page.img-path %}
-        <div class="header-img-cont">
-            <img src="{{ page.img-path }}">
+        <div class="header-img-cont" style="background: url({{ page.img-path }}) center center / cover no-repeat;">
         </div>
       {% endif %}
       <div class="wrapper">

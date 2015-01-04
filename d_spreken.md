@@ -2,6 +2,10 @@
 layout: page
 title: Spreken
 permalink: /diensten/spreken/
+img-path: /assets/img/bg3.jpg
+
+meta-desc: Een goede spreker neemt zijn luisteraars mee naar een nieuw gebied waar ze veranderen en nieuwe dingen leren.
+meta-tags: informatieoverdracht, spreker, voordracht, boodschap, ontwikkelfase, persoonlijke groei, emotionele problemen, bijbeluitleg, enthousiasmeren, geestelijke groei, barrières overwinnen, kerken, sociaal maatschappelijk, mannengroepen, kampvuuravonden, conferenties, christelijk
 ---
 
 **Een goede spreker neemt zijn luisteraars mee naar een nieuw gebied.**  

@@ -3,7 +3,7 @@ layout: page
 title: Visie
 permalink: /visie/
 image: true
-img-path: /assets/img/photo_featured.jpg
+img-path: /assets/img/bg1.jpg
 ---
 
 #### Mensbeeld

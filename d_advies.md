@@ -2,6 +2,10 @@
 layout: page
 title: Advies
 permalink: /diensten/advies/
+img-path: /assets/img/bg3.jpg
+
+meta-desc: Goede raad helpt je om de juiste keuze te maken en het juiste pad te kiezen richting toekomst
+meta-tags: advies, toekomst, toekomstgericht, kort advies, huwelijk, loopbaan, zingeving, levensweg, studiekeuze, beroepskeuze, relatieadvies, loopbaanadvies, persoonlijk advies, christelijk advies
 ---
 
 **De goede raad van een adviseur helpt jou om het juiste pad te kiezen.**

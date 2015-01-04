@@ -2,6 +2,7 @@
 layout: page
 title: Over KNOT
 permalink: /about/
+img-path: /assets/img/knot.jpg
 ---
 #### Over Mij
 In 1966 als oudste zoon geboren op een boerderij in Vlist en opgegroeid op de grens van de Krimpenerwaard en Lopikerwaard was ik voorbestemd om boer te worden. Ik had meer belangstelling voor vissen, kikkers en vogels dan voor koeien. Omdat ik ook graag knutselde en bouwde mocht ik naar de Technische School om timmerman te worden tot groot verdriet van de hoofdonderwijzer die mij graag zag doorleren op het atheneum.
