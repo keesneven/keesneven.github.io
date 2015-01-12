@@ -122,56 +122,6 @@ nav ul {
 	background: url(/assets/img/photo_featured2.jpg) center center / cover no-repeat;
 }
 
-// Fix for vh units in iOS 7
-// iPad portrait
-@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
-	.home .header  {
-		height: 1024px;
-
-		&  h1 {
-			margin: 410px auto 0 auto;
-		}
-	}
-
-	.header-img {
-		height: 1024px;
-	}
-
-
-}
-
-// iPad landscape
-@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape) {
-	
-	.home .header  {
-		height: 768px;
-
-		&  h1 {
-			margin: 307px auto 0 auto;
-		}
-	}
-
-
-	.header-img {
-		height: 768px;
-	}
-}
-
-// iPhone 5
-@media screen and (device-aspect-ratio: 40/71) {
-	.home .header  {
-		height: 500px;
-
-		&  h1 {
-			margin: 200px auto 0 auto;
-		}
-	}
-
-	.header-img {
-		height: 500px;
-	}
-}
-
 .home .header {
 	
 	height: 100vh;
@@ -246,4 +196,55 @@ textarea {
 	 	color: white;
 	 	text-decoration: underline;
 	 }
+}
+
+// Fix for vh units in iOS 7
+// iPad portrait
+
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:portrait) {
+	.home .header  {
+		height: 1024px;
+
+		&  h1 {
+			margin: 410px auto 0 auto;
+		}
+	}
+
+	.header-img {
+		height: 1024px;
+	}
+
+
+}
+
+// iPad landscape
+@media all and (device-width: 768px) and (device-height: 1024px) and (orientation:landscape) {
+	
+	.home .header  {
+		height: 768px;
+
+		&  h1 {
+			margin: 307px auto 0 auto;
+		}
+	}
+
+
+	.header-img {
+		height: 768px;
+	}
+}
+
+// iPhone 5
+@media screen and (device-aspect-ratio: 40/71) {
+	.home .header  {
+		height: 500px;
+
+		&  h1 {
+			margin: 200px auto 0 auto;
+		}
+	}
+
+	.header-img {
+		height: 500px;
+	}
 }
