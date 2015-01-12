@@ -14,11 +14,11 @@ Als je op weg gaat om dromen of idealen te vervullen kunnen je hinderlijke belem
 Soms is het duidelijk waar ze vandaan komen en soms ook helemaal niet. In een traject van counseling gaan we op zoek naar oorsprong, aanleiding en instandhouders. Het is voldoende om een wens voor verandering te hebben.
 
 Enkele voorbeelden van Counselingsvragen zijn:
--Je wilt iets nieuws gaan doen maar je ervaart een gevoel van onveiligheid zodra je er aan begin.
+- Je wilt iets nieuws gaan doen maar je ervaart een gevoel van onveiligheid zodra je er aan begin.
 - Je wordt geplaagd door gedachte dat je niet geschikt bent, niet goed genoeg bent en nooit zult bereiken wat je wilt
 - Je hebt het idee dat je niet geliefd bent of dat anderen nooit van je kunnen houden.
 - Je ervaart steeds een weerstand die je niet kan plaatsen
-Anderen zeggen dat het lijk tof jij jezelf niet bent.
+- Anderen zeggen dat het lijk tof jij jezelf niet bent.
 - Je bent verdrietig en het lukt maar niet om daar uit te komen.
 - Je hebt het gevoel dat God boos op je is, en je in de steek laat.
 - Je ervaart afwijzing en weet niet waar dit vandaan komt.
@@ -27,7 +27,7 @@ Anderen zeggen dat het lijk tof jij jezelf niet bent.
 - Je wilt iets nieuws gaan doen maar je bent bang.
 - Je hebt het idee dat je niet goed genoeg bent
 - Je hebt het idee dat je er niet bij hoort. 
-- 
+
 Een traject begint met een kennismakingsgesprek waarbij het onderwerp  het doel van de counseling bepaald wordt. 
 We maken vervolgens afspraken over de gewenste methode van aanpak, de ingeschatte tijdsduur en frequentie, zodat vooraf helder is wat er verwacht kan worden en hoe groot de investering is wat betreft inspanning en kosten.
 
