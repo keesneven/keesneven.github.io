@@ -17,7 +17,7 @@ Een probleem kan vaak op verschillende manieren opgelost worden.
 Een goed advies leidt naar een succesvol plan met meer kans van slagen.
 Een advies om op de juiste manier om te gaan met onomkeerbare zaken zoals een ingrijpend verlies is ook een vorm van adviseren.
 
-Adviseren kan op veel gebieden. Het kan een korte advies zijn wat nodig is, of een juist uitgebreid. Een advies kan persoonlijk zijn, maar ook voor een r
+Adviseren kan op veel gebieden. Het kan een korte advies zijn wat nodig is, of een juist uitgebreid. Een advies kan persoonlijk zijn, maar ook voor een groep, team, kerk of organisatie.
  
 #### Relaties:
 - Loslaten of vasthouden, hoe krijg ik ruimte zonder de ander te verliezen?
