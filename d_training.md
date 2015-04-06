@@ -34,4 +34,4 @@ Trainingen zijn maatwerk. In een kennismakingsgesprek wordt trainingsbehoefte va
 Vervolgens wordt er een trainingsplan gemaakt en dit wordt met elkaar besproken. Alle afspraken (datums, tijden, trainingslocatie,  onderwerpen, kosten en vergoedingen) worden van te voren duidelijk in een offerte aangegeven en bij akkoord uitgevoerd op de vooraf afgesproken wijze.
 
 Voor vragen of meer informatie kunt u mailen naar:
-info@knot-consulting
+info@knot.consulting
