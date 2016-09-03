@@ -17,7 +17,7 @@ Een probleem kan vaak op verschillende manieren opgelost worden.
 Een goed advies leidt naar een succesvol plan met meer kans van slagen.
 Een advies om op de juiste manier om te gaan met onomkeerbare zaken zoals een ingrijpend verlies is ook een vorm van adviseren.
 
-Adviseren kan op veel gebieden. Het kan een korte advies zijn wat nodig is, of een juist uitgebreid. Een advies kan persoonlijk zijn, maar ook voor een groep, team, kerk of organisatie.
+Adviseren kan op veel gebieden. Het kan een kort advies zijn wat nodig is, of een juist uitgebreid. Een advies kan persoonlijk zijn, maar ook voor een groep, team, kerk of organisatie.
  
 #### Relaties:
 - Loslaten of vasthouden, hoe krijg ik ruimte zonder de ander te verliezen?
@@ -33,7 +33,7 @@ Adviseren kan op veel gebieden. Het kan een korte advies zijn wat nodig is, of e
 - Help! Ik verlies mijn baan, wat moet ik nu doen?
 - Ik ben de passie voor mijn werk kwijt, wat moet ik nu doen?
 - Mijn werk wordt te zwaar voor mij, welke mogelijkheden heb ik nog meer?
-- Ik denk erover om ZZPer te worden, maar ik weet niet of ik het kan?
+- Ik denk erover om ZZP'er te worden, maar ik weet niet of ik het kan?
 
 #### Dromen of idealen:
 - Ik heb een droom maar ik weet niet waar en wanneer ik moet beginnen?
@@ -42,7 +42,7 @@ Adviseren kan op veel gebieden. Het kan een korte advies zijn wat nodig is, of e
 - Ik wil graag iets bereiken in mijn leven en zinvol bezig zijn, maar het lukt niet. Wat kan ik anders doen?
 
 #### Teams, groepen of kerken:
-- Hoe bepalen we een lange termijn doel om onze missie en visie vorm te geven.
+- Hoe bepalen we lange termijn doelen om onze missie en visie vorm te geven.
 - Hoe vinden we onze visie?
 - We hebben allemaal verschillende ideeën en komen op deze manier niet goed uit de verf, wat kunnen we doen?
 - We staan voor ingrijpende keuzes, hoe weten we dat ze de beste keuze maken?
