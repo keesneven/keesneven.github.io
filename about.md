@@ -28,10 +28,10 @@ In 2016 als coach aangesloten bij de NOBCO onder nummber 29462.
 Als transformissioneel coach ben onderscheidend in mijn flexibele aanpak die passend is gemaakt op de persoon of de groep.
 
 #### Wat zeggen anderen over mij?
-_De coach is onderscheidend in zijn telkens aanpassende aanpak._
+_"De coach is onderscheidend in zijn telkens aanpassende aanpak."_
 
-_Door brede kennis en ervaring kon de coach vernieuwend en pakkend zijn. Deze pakkende uitdagende manier van coachen maakte het voor mij erg aantrekkelijk om iedere week weer af te spreken._
+_"Door brede kennis en ervaring kon de coach vernieuwend en pakkend zijn. Deze pakkende uitdagende manier van coachen maakte het voor mij erg aantrekkelijk om iedere week weer af te spreken."_
 
-_Mijn coachtraject is speciaal op maat gemaakt._
+_"Mijn coachtraject is speciaal op maat gemaakt."_
 
-_Je werkt op een hele veilige vertrouwde manier, waardoor het makkelijk is om je open te stellen._
+_"Je werkt op een hele veilige vertrouwde manier, waardoor het makkelijk is om je open te stellen."_
