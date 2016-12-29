@@ -70,6 +70,12 @@ nav ul {
 		position: relative;
 	}
 
+	& .active,
+	> li:hover > a {
+		text-decoration: none;
+		border-bottom: 4px solid $brand-color;
+	}
+
 	.sub {
 		position: absolute;
 		display: none;

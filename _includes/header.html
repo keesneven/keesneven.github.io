@@ -1,3 +1,5 @@
+{% assign current = page.permalink | downcase | split: '/' %}
+
 <header class="site-header">
 
   <div class="wrapper">
@@ -7,17 +9,21 @@
     <nav class="site-nav">
       <div class="trigger">
         <ul class="nav">
-          <li><a class="page-link" href="{{ '/visie/' }}">Visie</a></li>
-          <li><a class="page-link" href="{{ '/about/' }}">Over KNOT</a></li>
+          <li><a class="page-link {% if current[1] == 'visie' %} active{% endif %}"  href="{{ '/visie/' }}">Visie</a></li>
+          <li><a class="page-link {% if current[1] == 'about' %} active{% endif %}" href="{{ '/about/' }}">Over KNOT</a></li>
           <li id="diensten">
-            <a class="page-link" href="{{ '/diensten/' }}">Diensten</a>
+            <a class="page-link {% if current[1] == 'diensten' %} active{% endif %}" href="{{ '/diensten/' }}">Diensten</a>
             <ul class="sub">
               {% for dienst in site.data.diensten %}
-                <li><a href="{{ dienst.link }}">{{ dienst.name }}</a></li>
+                  {% assign sub = dienst.link | downcase | split: '/' %}
+
+                <li>
+                  <a href="{{ dienst.link }}" {% if sub[2] == current[2]%} class='active' {% endif %}>{{ dienst.name }}</a>
+                </li>
               {% endfor %}
             </ul>
             </li>
-          <li><a class="page-link" href="{{ '/contact/'  }}">Contact</a></li>
+          <li><a class="page-link {% if current[1] == 'contact' %} active{% endif %}" href="{{ '/contact/'  }}">Contact</a></li>
         </ul>
       </div>
     </nav>
