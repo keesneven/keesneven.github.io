@@ -320,6 +320,22 @@
     }
 }
 
+@media screen and (max-width: 632px) {
+    .circle-wrapper .col {
+        width: -webkit-calc(100% / 2);
+        width: calc(100% / 2);
+    }
+
+    .circle { 
+        width: calc(45vw);
+        height: calc(45vw);
+    }
+
+    .circle h2 {
+        padding-top: calc(30% + (100vw - 400px) * 0.07);
+    }
+}
+
  
 .overlay {
   z-index: 10;
