@@ -254,15 +254,3 @@ textarea {
 		height: 500px;
 	}
 }
-
-@media screen and (max-width: 632px) {
-	.circle-wrapper .col {
-		width: -webkit-calc(100% / 2);
-		width: calc(100% / 2);
-	}
-
-	.circle { 
-		width: calc(45vw);
-		height: calc(45vw);
-	}
-}
