@@ -24,6 +24,15 @@ Tijdens de Middelbare Technische School werd ik vanwege ziekte van mijn vader al
 #### NOBCO
 In 2016 als coach aangesloten bij de NOBCO onder nummber 29462.
 
+<div>
+    <div style="width: 40%; display: inline-block;">
+        <img src="/assets/img/nobco.png" />
+    </div>
+    <div style="width: 48%; display: inline-block;">
+        <img src="/assets/img/eia.jpg" />
+    </div>
+</div>
+
 #### Wat kan ik bieden?
 Als transformissioneel coach ben onderscheidend in mijn flexibele aanpak die passend is gemaakt op de persoon of de groep.
 
