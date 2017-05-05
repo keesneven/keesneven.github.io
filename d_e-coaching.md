@@ -10,7 +10,7 @@ meta-tags: e-coach, skype, facetime, coachingsvraag, persoonstype, conflicten, o
 
 **Een goede coach helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn.** 
 
-**Een digitaal coachprogramma helpt jou om zelf aan de slag te gaan met je coachvraag. Als je er niet uitkomt is het mogelijk om de ondersteuning van de coach te vragen.**
+**Een digitaal coachprogramma helpt jou om zelf aan de slag te gaan met je coachvraag. Als je er niet uitkomt is het mogelijk om de ondersteuning van de coach te vragen. Kijk voor de beschikbare programma's op www.KNOT.training**
 
 **Een E-coach doet dit op afstand en maakt gebruik van de digitale mogelijkheden van deze tijd.**
 
@@ -63,5 +63,5 @@ Voor meer info:
 
 info@knot.consulting
 
-voor digitale coachprorgamma's:
+Voor digitale coachprorgamma's:
 www.KNOT.training
