@@ -62,3 +62,6 @@ In de contractering maken we heldere afspraken over de tijdsduur, de gezamenlijk
 Voor meer info:
 
 info@knot.consulting
+
+voor digitale coachprorgamma's:
+www.KNOT.training
