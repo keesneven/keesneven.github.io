@@ -4,17 +4,18 @@ title: E-coaching
 permalink: /diensten/e-coaching/
 img-path: /assets/img/bg2.jpg
 
-meta-desc: Met digitale media is het goed mogelijk om te coachen.
-meta-tags: e-coach, skype, facetime, coachingsvraag, persoonstype, conflicten, ondersteuning, coachingstraject, streefdoelen, moderne coach, tijd als obstakel, talent, kwaliteiten
+meta-desc: Met digitale media is het goed mogelijk om te coachen. Digitale Coachprogramma's kunnen helpen om het onderwerp 
+meta-tags: e-coach, skype, facetime, coachingsvraag, persoonstype, conflicten, ondersteuning, coachingstraject, streefdoelen, moderne coach, tijd als obstakel, talent, kwaliteiten, coachprogamma, digitaal
 ---
 
 **Een goede coach helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn.** 
 
+**Een digitaal coachprogramma helpt jou om zelf aan de slag te gaan met je coachvraag. Als je er niet uitkomt is het mogelijk om de ondersteuning van de coach te vragen.**
+
 **Een E-coach doet dit op afstand en maakt gebruik van de digitale mogelijkheden van deze tijd.**
 
-E-coaching via e-mail of Skype is een alternatief als afstand een obstakel, tijd een beperkende factor en agendaruimte een belemmering is.
+E-coaching via e-mail of Skype is een alternatief als afstand een obstakel is, tijd een beperkende factor en agendaruimte een belemmering is.
 Een persoonlijke ontmoeting met de coach heeft altijd voorkeur. E-coaching is een goed alternatief en ook geschikt voor de meeste coachvragen.
-Het heeft wel de voorkeur om de coach een keer in levenden lijve te ontmoeten om het coachen via Skype effectiever te maken
 
 Een coachvraag hoeft nog niet helder te zijn, enkele voorbeelden waar je aan denken kunt vind je hieronder:
 
@@ -45,7 +46,7 @@ Een coachvraag hoeft nog niet helder te zijn, enkele voorbeelden waar je aan den
 
 #### Zingeving:
 - Ik wil van betekenis zijn en wil ontdekken wat bij mij past
-het lukt mij niet om mijn geloof een plaats te geven in mijn dagelijks leven.
+- het lukt mij niet om mijn geloof een plaats te geven in mijn dagelijks leven.
 - Ik twijfel steeds of ik wel op de goede plaats bezig ben
 - Ik heb het niet meer naar mijn zin.
 
@@ -53,7 +54,7 @@ Een coachtraject start bij jouw coachvragen.
 
 Als deze vragen helder zijn is dat mooi. Als het niet zo is dan maken we in het eerste (Skype)gesprek de vraag of vragen concreet.
 
-Iets wat jouw voortdurend boos maakt, onzeker, ontevreden maakt of juist nieuwsgierig kan al voldoende zijn. Misschien wordt je wel ergens blij van en geeft het je energie. Dit kan allemaal leiden naar een succesvol coachingstraject waarbij jij komt op het punt waar je tevreden over bent.
+Iets wat jouw voortdurend boos maakt, onzeker, ontevreden maakt of juist nieuwsgierig kan al voldoende zijn. Misschien word je wel ergens blij van en geeft het je energie. Dit kan allemaal leiden naar een succesvol coachingstraject waarbij jij komt op het punt waar je tevreden over bent.
 
 Op grond van een eerste gesprek zullen we jouw persoonlijke coachvraag in beeld brengen. Daarbij zullen we de lijnen van het coachtraject uitzetten en bespreken hoe we je streefdoelen kunnen realiseren.
 In de contractering maken we heldere afspraken over de tijdsduur, de gezamenlijke inspanning en de kosten.
