@@ -10,9 +10,9 @@ meta-tags: ontwikkelcoach, transformissioneel, transformationeel veranderen, mot
 
 **Een goede coach helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn**. 
 
-Coaching is motivatie op gang brengen om te veranderen en jou te helpen om te komen je wil zijn. Dit kan jouw droom of ideaal, een doel of bestemming zijn. Samen sta je sterk en twee weten meer dan een. Ieder mens heeft bevestiging en aanmoedig nodig en dit geldt zeker als je iets wilt bereiken of veranderen. Dit zien we in de topsport. Het geldt ook bij het bereiken van andere doelen. We hebben als mens iemand nodig die ons zelf laat ontdekken waar we goed in zijn, wat we goed kunnen en wat we belangrijk vinden.
+Coaching is motivatie op gang brengen om te veranderen en jou te helpen om te komen je wil zijn. Dit kan jouw droom of ideaal, een doel of bestemming zijn. Samen sta je sterk en twee weten meer dan een. Ieder mens heeft bevestiging en aanmoedig nodig en dit geldt zeker als je iets wilt bereiken of veranderen. Wat we zien in de topsport geldt ook voor ieder doel. We hebben als mens iemand nodig die ons zelf laat ontdekken waar we goed in zijn, wat we goed kunnen en wat we belangrijk vinden.
 
-Soms kan coaching ook helpen om moeilijkheden te overwinnen. De problemen waar we mee te maken krijgen worden complexer van aard. Een goede coach helpt je optimaal om goed door de problemen heen te komen of om een goede weg te vinden om er mee om te gaan.
+Soms kan coaching ook helpen om moeilijkheden te overwinnen. De problemen waar we  in de huidige samenleving mee te maken krijgen worden complexer. Een goede coach helpt je om goed door deze problemen heen te komen of om een goede weg te vinden om er mee om te gaan.
 
 Een coachvraag hoeft nog niet helder te zijn, enkele voorbeelden waar je aan denken kunt vind je hieronder:
 
@@ -43,7 +43,7 @@ Een coachvraag hoeft nog niet helder te zijn, enkele voorbeelden waar je aan den
 
 #### Zingeving:
 - Ik wil van betekenis zijn en wil ontdekken wat bij mij past
-het lukt mij niet om mijn geloof een plaats te geven in mijn dagelijks leven.
+- het lukt mij niet om mijn geloof een plaats te geven in mijn dagelijks leven.
 - Ik twijfel steeds of ik wel op de goede plaats bezig ben
 - Ik heb het niet meer naar mijn zin.
 
