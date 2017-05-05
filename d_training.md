@@ -38,3 +38,6 @@ Vervolgens wordt er een trainingsplan gemaakt en dit wordt met elkaar besproken.
 
 Voor vragen of meer informatie kunt u mailen naar:
 info@knot.consulting
+
+Digitale trainingen zijn te vinden op www.KNOT.training
+
