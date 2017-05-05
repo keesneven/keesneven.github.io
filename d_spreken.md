@@ -1,46 +1,32 @@
 ---
 layout: page
-title: Spreken
+title: Woongroepen coach
 permalink: /diensten/spreken/
 img-path: /assets/img/bg3.jpg
 
-meta-desc: Een goede spreker neemt zijn luisteraars mee naar een nieuw gebied waar ze veranderen en nieuwe dingen leren.
-meta-tags: informatieoverdracht, spreker, voordracht, boodschap, ontwikkelfase, persoonlijke groei, emotionele problemen, bijbeluitleg, enthousiasmeren, geestelijke groei, barrières overwinnen, kerken, sociaal maatschappelijk, mannengroepen, kampvuuravonden, conferenties, christelijk
+meta-desc: Een Woongroepcoach helpt om een woongroep om te functioneren en het leven met elkaar te leren leven in alle groepsdynamiek. 
+meta-tags: Woongroepencoach,informatieoverdracht, ontwikkelfase, persoonlijke groei, emotionele problemen, enthousiasmeren, geestelijke groei, barrières overwinnen, sociaal maatschappelijk, mannengroepen, kampvuuravonden, conferenties, christelijk
 ---
 
-**Een goede spreker neemt zijn luisteraars mee naar een nieuw gebied.**  
-De oudste vorm van communiceren en informatieoverdracht is waarschijnlijk spreken. Een spreker kan een groep in één keer informatie geven of kennis overdragen.
-Een spreker voor een groep kan het doel hebben om je motiveren om iets van waarde te koesteren of juist tot verandering te brengen. Hij kan ook nieuwe inzichten aanreiken en kennis overbrengen die bruikbaar is voor deze groep. Een spreker kan de groep helpen om te groeien en te ontwikkelen.
+**Een woongroepcoach helpt individuen in het worden van, of het instandhouden van een groep met een gemeenschappelijk doel.**  
 
-Mensen kunnen hun hele leven blijven ontwikkelen en veranderen als zij dit willen. Een goed verhaal van een spreker kan de aanzet zijn tot verandering maar ook motiveren om door te zetten tijdens verandering en ontwikkeling.
+####De woongroepcoach kan helpen bij diverse thema's, zoals:
 
-Iedere tijd is anders en heeft zijn eigen vragen en kansen. Een spreker die zijn publiek kan enthousiasmeren en motiveren om te ontwikkelen, zodat het leven met passie geleefd kan worden, is effectief. 
+- De vorming en ontwikkelings van een groep.
+- het vormen van een hechte gemeenschap.
+- Het in de praktijk brengen van visie en missie.
+- Driegend vastlopen van groepsprocessen om te buigen naar groei.
 
-De boodschap die overgebracht is kan ondersteund worden door training of coaching, of counseling indien er (geestelijke) barrières te overwinnen zijn.
-
-#### Spreken kan over diverse onderwerpen gaan zoals:
-- De ontwikkelingsfases van de mens en zijn persoonlijke groei.
-- Vriendschappen, relaties, huwelijk en seksualiteit.
-- Omgaan met maatschappelijke en sociale vraagstukken.
-- Omgaan met belemmeringen en hindernissen.
-- Principes van groei en verandering
-- Omgaan met keuzes
-- Omgaan met emotionele problemen
-- Toepassen van bijbelse principes op alle terreinen van het leven.
-- Bijbeluitleg
-- Omgaan met verschillen
+De coaching kan kortdurend zijn rond een thema of langerdurend als externe steun voor de woongroep.
 
 #### Groepen
-Spreken kan op verschillende plaatsen voor een verscheidenheid aan groepen en groepsgrootte. Spreken kan eenmalig of als serie.
-Het kan op zichzelf staan of een onderdeel zijn van een verander traject waar ook coaching, training, counseling en adviseren een deel van uitmaakt.
+Groepen hebben een verschillende reden om bij elkaar te zijn. Een groep als een kleine samenleving kan een veilige plaats zijn voor om langdurig te wonen. Het opzetten van kleinschalige zelfvoorziende woongroepen is een ideaal.
 
-#### Spreken kan bij
-- Kerken en gemeentes, groepen in kerken
-- Organisatie met een christelijk of sociaal maatschappelijk karakter
-- Mannengroepen, kampvuuravonden, conferenties
-- Teams
-- Gezinnen en families
-- Bedrijven, organisaties en teams die willen ontwikkelen op menselijke aspecten
+#### Coachen van Woongroepn;
+
+- als er een initiatief is om een zelfvoorzienende woongroep op te starten
+- bij een net gestarte woongroep die wil groeien of tegen problemen aanloopt
+- bij een groep die al langer bestaat en waar verandering nodig is.
 
 
 #### Belangstelling?
