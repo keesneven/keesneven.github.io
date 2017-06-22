@@ -10,7 +10,7 @@ meta-tags: Woongroepencoach,informatieoverdracht, ontwikkelfase, persoonlijke gr
 
 **Een woongroepcoach helpt individuen in het worden van, of het instandhouden van een groep met een gemeenschappelijk doel.**  
 
-####De woongroepcoach kan helpen bij diverse thema's, zoals:
+#### De woongroepcoach kan helpen bij diverse thema's, zoals:
 
 - De vorming en ontwikkelings van een groep.
 - het vormen van een hechte gemeenschap.
