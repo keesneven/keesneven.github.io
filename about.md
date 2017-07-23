@@ -48,4 +48,4 @@ _"Je werkt op een hele veilige vertrouwde manier, waardoor het makkelijk is om j
 _"Je had vrij snel door dat ik een visuele denker ben en een doener,dus ging je met mij met allerlei materiaal aan de slag. Dat werkt bij mij het best!"_
 
 _"Je hebt me verder geholpen, je bent een echte vakman!"_ 
-- 
+
