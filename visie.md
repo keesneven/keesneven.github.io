@@ -11,19 +11,18 @@ Wij hebben een holistisch mensbeeld en geloven dat lichaam, ziel en geest met el
 
 Wij nemen als uitgangspunt dat de mens door zijn Schepper is gewild en geschapen. We nemen aan dat de mens bedoeld  is om in duurzame relaties een liefdevol leven te leven met zichzelf, de ander en de Schepper. We nemen aan dat ieder mens een rol van betekenis kan vervullen in zijn leven. De betekenis kan in het hier en nu zijn, maar ook pas later zijn bestemming krijgen. Het kan in het tastbare leven hier op aarde zijn of in het onzichtbare bovennatuurlijke. Wij geloven dat de mens een bepaalde tijd hier op aarde is en na zijn dood eeuwig leeft. Wij geloven dat de mens in dit leven zijn Schepper kan ontmoeten om daardoor en daarna het eeuwige leven met zijn Schepper door te brengen. 
 
-Wij gaan er van uit dat de mens bewust bedoeld is om in de lijn van de generaties in deze tijd te leven, om nu iets te doen wat voor hen die na ons komen van belang is. Wij vinden daarom vriendschappen, relaties, huwelijken, gezinnen, families, verenigingen, dorps en buurtschappen en alle leefgemeenschappen die je maar bedenken kunt belangrijk.
+Wij gaan er van uit dat de mens bewust bedoeld is om in de lijn van de generaties in deze tijd te leven. Om nu iets te doen wat voor hen die na ons komen van belang is. Wij vinden daarom vriendschappen, relaties, huwelijken, gezinnen, families, verenigingen, dorps en buurtschappen en alle leefgemeenschappen die je maar bedenken kunt belangrijk.
 
-Wij geloven dat de mens met behulp van zijn Schepper en hulp van anderen zichzelf kan overstijgen door dingen te doen waarvan hij tevoren niet gedacht had daartoe in staat te zijn.
+Wij geloven dat de mens met behulp van zijn Schepper en hulp van anderen zichzelf kan overstijgen door dingen te doen waarvan hij tevoren niet gedacht had daartoe in staat te zijn. Een mens is gelukkig als hij van van betekeniskan zijn. en deel is van een groter geheel.
 
 
 #### De Naam
 
 ##### Knot of Knotwilg
 
+De knot of knotwilg is eigenlijk een onthoofde wilg. Eens in de drie of vier jaar wordt de pruik afgezet. In het voorjaar groeien de jonge loten al weer snel uit tot een nieuwe pruik.	 
+
 Het woord wilg is afgeleid van het Angelsaksische welig wat te maken heeft met buigzaamheid en snelle groei.
-
-De knot of knotwilg is eigenlijk een onthoofde wilg. Eens in de drie of vier jaar wordt de pruik afgezet. In het voorjaar groeien de jonge loten al weer snel uit tot een nieuwe pruik.	
-
 
 Een echte pionier. Kapotgescheurd door storm, wind en water groeit ieder twijgje weer uit tot een nieuwe boom of struik. Hij is dan ook een kampioen in overleven.
 
