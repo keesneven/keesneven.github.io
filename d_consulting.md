@@ -7,7 +7,7 @@ img-path: /assets/img/bg5.jpg
 
 **Een goede counselor helpt jou om jezelf weer terug te vinden na een ingrijpende gebeurtenis.**
 Het kan zomaar gebeuren dat je in de knoop raakt met jezelf, met een ander of de Ander. Het kan zijn dat je mentaal of geestelijk beschadigd bent geraakt. Belangrijke levensgebeurtenissen zoals het meemaken van geboortes en sterfgevallen, trouwen en scheiden, ander werk en verhuizen, ziekte en werkeloosheid kunnen je danig uit je evenwicht brengen.
-Herstelprocessen kunnen kort zijn maar ook lang duren. Dit is afhankelijk van de impact die ze hebben gehad, hoe de verstoringen of beschadigingen zijn ontstaan en hoe lang het heeft kunnen bestaan. De counselor helpt je om tot herstel en genezing te komen of om te aanvaarden wat onveranderbaar is.
+Herstelprocessen kunnen kort maar ook lang duren. Dit is vaak afhankelijk van de impact die ze hebben gehad, hoe de verstoringen of beschadigingen zijn ontstaan en hoe lang het heeft kunnen bestaan. De counselor helpt je om tot herstel en genezing te komen. Of om te aanvaarden wat onveranderbaar is.
 
 Als je op weg gaat om dromen of idealen te vervullen kunnen je hinderlijke belemmeringen tegenkomen. Deze belemmeringen kunnen van allerlei aard en oorsprong zijn.
 
@@ -26,7 +26,9 @@ Enkele voorbeelden van counselingsvragen zijn:
 - Het lijkt alsof er dezelfde dingen steeds maar weer opnieuw gebeuren in je leven zonder dat je het gevoel hebt er iets aan te kunnen doen.
 - Je wilt iets nieuws gaan doen maar je bent bang.
 - Je hebt het idee dat je niet goed genoeg bent
-- Je hebt het idee dat je er niet bij hoort. 
+- Je hebt het idee dat je er niet bij hoort.
+
+Bij Counseling richten we ons op het punt waar je naar toe wilt groeien, we kijken alleen terug als het nodig is. Veel veranderinen liggen namelijk in het hier en nu.
 
 Een traject begint met een kennismakingsgesprek waarbij het onderwerp en het doel van de counseling bepaald wordt. 
 We maken vervolgens afspraken over de gewenste methode van aanpak, de ingeschatte tijdsduur en frequentie, zodat vooraf helder is wat er verwacht kan worden en hoe groot de investering is wat betreft inspanning en kosten.
