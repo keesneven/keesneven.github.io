@@ -50,11 +50,11 @@ Een coachvraag hoeft nog niet helder te zijn, enkele voorbeelden waar je aan den
 - Ik twijfel steeds of ik wel op de goede plaats bezig ben
 - Ik heb het niet meer naar mijn zin.
 
-Een coachtraject start bij jouw coachvragen.
+Een coachtraject start bij jouw coachvraag.
 
-Als deze vragen helder zijn is dat mooi. Als het niet zo is dan maken we in het eerste (Skype)gesprek de vraag of vragen concreet.
+Als deze vraag helder is, is dat mooi. Als het niet zo is dan maken we in het eerste (Skype)gesprek de vraag of vragen concreet.
 
-Iets wat jouw voortdurend boos maakt, onzeker, ontevreden maakt of juist nieuwsgierig kan al voldoende zijn. Misschien word je wel ergens blij van en geeft het je energie. Dit kan allemaal leiden naar een succesvol coachingstraject waarbij jij komt op het punt waar je tevreden over bent.
+Iets wat jouw voortdurend boos maakt, onzeker, ontevreden of juist nieuwsgierig kan al voldoende zijn. Misschien word je wel ergens blij van en geeft het je energie. Dit kan allemaal leiden naar een succesvol coachingstraject waarbij jij komt op het punt waar je tevreden over bent.
 
 Op grond van een eerste gesprek zullen we jouw persoonlijke coachvraag in beeld brengen. Daarbij zullen we de lijnen van het coachtraject uitzetten en bespreken hoe we je streefdoelen kunnen realiseren.
 In de contractering maken we heldere afspraken over de tijdsduur, de gezamenlijke inspanning en de kosten.
