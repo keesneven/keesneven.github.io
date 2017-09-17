@@ -56,24 +56,28 @@
     </p>"
   link: /diensten/training/
 
-- name: Woongroepen coach
+- name: Woongroepen
   slug: Overdracht voor groei
   description: 
-    "<p>
-      <strong>Een goede spreker neemt zijn luisteraars mee naar een nieuw gebied.</strong>
-    </p>
-    <p>
-      De oudste vorm van communiceren en informatieoverdracht is waarschijnlijk spreken. Een spreker kan een groep in een keer informatie geven, kennis overdragen of onderhouden.
-    </p>
+    "<p><strong>Een woongroepcoach helpt individuen en groepen in het opzetten of het instandhouden van een groep met een gemeenschappelijk doel.</strong></p>
 
-    <p>
-      Een spreker voor een groep kan het doel hebben om je motiveren om iets van waarde te koesteren of juist tot verandering te brengen. Hij kan ook nieuwe inzichten en kennis overbrengen en uitleggen die bruikbaar is voor deze groep. Een spreker kan de groep helpen om te groeien en te ontwikkelen.
-    </p>"
+    <p>De woongroepcoach kan helpen bij diverse thema’s, zoals:</p>
+
+    <ul>
+      <li>het omzetten van een ideaal naar een goed functionerende woongroep.</li>
+      <li>het maken van beleid rondom selectie van groepsleden en het functioneren van een woongroep</li>
+      <li>het starten, de vorming en ontwikkeling van een groep.</li>
+      <li>Het vormen van een hechte (woon)gemeenschap.</li>
+      <li>Het in de praktijk brengen van visie en missie van de woongroep, vooral als het anders loopt dan de verwachting.</li>
+      <li>Leren om met verschillen om te gaan.</li>
+      <li>Groepen die stageneren helpen om groepsprocessen om te buigen naar groei.</li>
+    </ul>
+
+    <p>De coaching kan kortdurend zijn rond een thema of langerdurend als externe steun voor de woongroep.</p>"
   link: /diensten/woongroepen/
 
 - name: E-Coaching
-  slug:   online zelfcoach programma 
-  
+  slug: Online zelfcoach programma 
   description: 
     "<p>
       <strong>Een goede coach helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn.</strong> 

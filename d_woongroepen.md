@@ -11,6 +11,7 @@ meta-tags: Woongroepencoach, Zelfvoorziening, de kleine samenleving, informatieo
 **Een woongroepcoach helpt individuen en groepen in het opzetten of het instandhouden van een groep met een gemeenschappelijk doel.**  
 
 De woongroepcoach kan helpen bij diverse thema's, zoals:
+
 - het omzetten van een ideaal naar een goed functionerende woongroep.
 - het maken van beleid rondom selectie van groepsleden en het functioneren van een woongroep
 - het starten, de vorming en ontwikkeling van een groep.
