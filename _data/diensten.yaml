@@ -56,7 +56,7 @@
     </p>"
   link: /diensten/training/
 
-- name: Spreken
+- name: Woongroepen
   slug: Overdracht voor groei
   description: 
     "<p>
@@ -69,7 +69,7 @@
     <p>
       Een spreker voor een groep kan het doel hebben om je motiveren om iets van waarde te koesteren of juist tot verandering te brengen. Hij kan ook nieuwe inzichten en kennis overbrengen en uitleggen die bruikbaar is voor deze groep. Een spreker kan de groep helpen om te groeien en te ontwikkelen.
     </p>"
-  link: /diensten/spreken/
+  link: /diensten/woongroepen/
 
 - name: E-Coaching
   slug:   online zelfcoach programma 

@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Woongroepen coach
-permalink: /diensten/spreken/
+permalink: /diensten/woongroepen/
 img-path: /assets/img/bg3.jpg
 
 meta-desc: Een Woongroepcoach helpt om een woongroep om te functioneren en het leven met elkaar te leren leven in alle groepsdynamiek. 
