@@ -4,8 +4,8 @@ title: Woongroepen coach
 permalink: /diensten/spreken/
 img-path: /assets/img/bg3.jpg
 
-meta-desc: Een Woongroepcoach helpt om een woongroep om te functioneren en het leven met elkaar te leren leven in alle groepsdynamiek. 
-meta-tags: Woongroepencoach,informatieoverdracht, ontwikkelfase, persoonlijke groei, emotionele problemen, enthousiasmeren, geestelijke groei, barrières overwinnen, sociaal maatschappelijk, mannengroepen, kampvuuravonden, conferenties, christelijk
+meta-desc: Een Woongroepcoach helpt een woongroep om te functioneren en het leven met elkaar te leren leven in de dynamiek van een (woon)groep.
+meta-tags: Woongroepencoach, Zelfvoorziening, de kleine samenleving, informatieoverdracht, ontwikkelfase, persoonlijke groei, emotionele problemen, enthousiasmeren, geestelijke groei, barrières overwinnen, sociaal maatschappelijk, mannengroepen, kampvuuravonden, conferenties, christelijk
 ---
 
 **Een woongroepcoach helpt individuen en groepen in het opzetten of het instandhouden van een groep met een gemeenschappelijk doel.**  
