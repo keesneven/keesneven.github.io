@@ -8,25 +8,31 @@ meta-desc: Een Woongroepcoach helpt om een woongroep om te functioneren en het l
 meta-tags: Woongroepencoach,informatieoverdracht, ontwikkelfase, persoonlijke groei, emotionele problemen, enthousiasmeren, geestelijke groei, barrières overwinnen, sociaal maatschappelijk, mannengroepen, kampvuuravonden, conferenties, christelijk
 ---
 
-**Een woongroepcoach helpt individuen in het worden van, of het instandhouden van een groep met een gemeenschappelijk doel.**  
+**Een woongroepcoach helpt individuen en groepen in het opzetten of het instandhouden van een groep met een gemeenschappelijk doel.**  
 
 De woongroepcoach kan helpen bij diverse thema's, zoals:
-
-- De vorming en ontwikkelings van een groep.
-- het vormen van een hechte gemeenschap.
-- Het in de praktijk brengen van visie en missie.
-- Driegend vastlopen van groepsprocessen om te buigen naar groei.
+- het omzetten van een ideaal naar de praktijk van alle dag.
+- het maken van beleid rondom selectie van groepsleden en het functioneren van een woongroep
+- het starten, de vorming en ontwikkeling van een groep.
+- Het vormen van een hechte (woon)gemeenschap.
+- Het in de praktijk brengen van visie en missie van de woongroep, vooral als het anders loopt dan de verwachting.
+- Leren om met verschillen om te gaan.
+- Groepen die stageneren helpen om groepsprocessen om te buigen naar groei.
 
 De coaching kan kortdurend zijn rond een thema of langerdurend als externe steun voor de woongroep.
 
 #### Groepen
-Groepen hebben een verschillende reden om bij elkaar te zijn. Een groep als een kleine samenleving kan een veilige plaats zijn voor om langdurig te wonen. Het opzetten van kleinschalige zelfvoorziende woongroepen is een ideaal.
+Groepen hebben verschillende redenen om bij elkaar te zijn. 
+Een groep als 'Een kleine samenleving' kan een veilige plaats zijn voor kwetsbare en mensen om langdurig te wonen, samen met 'gewone' mensen die met hen willen optrekken en het leven willen delen. 
+Het opzetten van kleinschalige (zelfvoorzienende) woongroepen in dorpen of buitengebied is een ideaal.
 
-#### Coachen van Woongroepn;
+#### Coachen van Woongroepen;
 
-- als er een initiatief is om een zelfvoorzienende woongroep op te starten
+- als er een initiatief is om een (zelfvoorzienende) woongroep op te starten.
+- bij de wens om een kleinschalige woongroep op te starten waar woonzorg gegeven kan worden.
+- het helpen ontwikkelen en beschrijven van de bedoeling, de doelstelling en de visie.
 - bij een net gestarte woongroep die wil groeien of tegen problemen aanloopt
-- bij een groep die al langer bestaat en waar verandering nodig is.
+- bij een groep die al langer bestaat en waar verandering nodig/gewenst is.
 
 
 #### Belangstelling?
