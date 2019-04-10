@@ -45,11 +45,11 @@ _"Mijn coachtraject is speciaal op maat gemaakt."_
 
 _"Je werkt op een hele veilige vertrouwde manier, waardoor het makkelijk is om je open te stellen."_
 
-_"Je had vrij snel door dat ik een visuele denker ben en een doener,dus ging je met mij met allerlei materiaal aan de slag. Dat werkt bij mij het best!"_
+_"Je had vrij snel door dat ik een visuele denker ben en een doener, dus ging je met mij met allerlei materiaal aan de slag. Dat werkt bij mij het best!"_
 
-_"Je hebt me verder geholpen, je bent een echte vakman!"
+_"Je hebt me verder geholpen, je bent een echte vakman!"_
 
-- [nieuw] "Hij wekt vertrouwen en gaat professioneel te werk. Je merkt dat hij goed weet waar hij mee bezig is. 
+-[nieuw] "Hij wekt vertrouwen en gaat professioneel te werk. Je merkt dat hij goed weet waar hij mee bezig is. 
 Het coachtraject heeft mij geholpen om weer grip te krijgen op mijn leven en verder te kunnen daar waar ik vastgelopen was. 
-Kees coacht op een hele prettige manier: rustig en doordacht, waarbij hij op mijn issues reageert zonder oordeel. Hij is in staat om maatwerk te leveren, wat maakte dat ik in staat was om de dingen die ik leerde ook toe te passen en er werkelijk dingen in mijn leven zijn veranderd." 
+Kees coacht op een hele prettige manier: rustig en doordacht, waarbij hij op mijn issues reageert zonder oordeel. Hij is in staat om maatwerk te leveren, wat maakte dat ik in staat was om de dingen die ik leerde ook toe te passen en er werkelijk dingen in mijn leven zijn veranderd."- 
 
