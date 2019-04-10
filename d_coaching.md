@@ -4,17 +4,17 @@ title: Coaching
 permalink: /diensten/coaching/
 img-path: /assets/img/bg4.jpg
 
-meta-desc: Een coach helpt je om te komen van de plek waar je nu bent naar de plek waar je wilt zijn
+meta-desc: Een coach helpt je om te komen van de plek waar je nu bent naar de plek waar je wil zijn
 meta-tags: ontwikkelcoach, transformissioneel, transformationeel veranderen, motivatie, coachinsvraag, coachtraject, coachproces, droom, doelbepaling, bestemming, zingeving, streefdoelen, christelijke coach
 ---
 
 **Een goede coach helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn**. 
 
-Coaching is motivatie op gang brengen om te veranderen en jou te helpen om te komen je wil zijn. Dit kan jouw droom of ideaal, een doel of bestemming zijn. Samen sta je sterk en twee weten meer dan een. Ieder mens heeft bevestiging en aanmoedig nodig en dit geldt zeker als je iets wilt bereiken of veranderen. Wat we zien in de topsport geldt ook voor ieder doel. We hebben als mens iemand nodig die ons zelf laat ontdekken waar we goed in zijn, wat we goed kunnen en wat we belangrijk vinden.
+Coaching is motivatie op gang brengen om te veranderen en jou te helpen om te komen je wil zijn. Dit kan jouw droom of ideaal, een doel of bestemming zijn. Samen sta je sterk en twee weten meer dan een. Ieder mens heeft bevestiging en aanmoediging nodig en dit geldt zeker als je iets wilt bereiken of veranderen. Wat we zien in de topsport geldt voor ieder doel. We hebben als mens iemand nodig die ons zelf laat ontdekken waar we goed in zijn, wat we goed kunnen en wat we belangrijk vinden.
 
-Soms kan coaching ook helpen om moeilijkheden te overwinnen. De problemen waar we  in de huidige samenleving mee te maken krijgen worden complexer. Een goede coach helpt je om goed door deze problemen heen te komen of om een goede weg te vinden om er mee om te gaan.
+Soms kan coaching ook helpen om moeilijkheden te overwinnen. De problemen waar we in de huidige samenleving mee te maken krijgen worden complexer. Een goede coach helpt je om goed door deze problemen heen te komen of om een goede weg te vinden om er mee om te gaan.
 
-Een coachvraag hoeft nog niet helder te zijn, enkele voorbeelden waar je aan denken kunt vind je hieronder:
+Een coachvraag hoeft nog niet helder te zijn, enkele voorbeelden waar je aan denken kunt:
 
 #### Persoonlijke ontwikkeling:
 - Ik wil zicht krijgen op verder ontwikkeling en mogelijkheden met mijn talenten en kwaliteiten.
@@ -24,9 +24,8 @@ Een coachvraag hoeft nog niet helder te zijn, enkele voorbeelden waar je aan den
 - Ik wil beter naar mijn gevoel leren luisteren zonder mijn verstand uit te schakelen.
 - Ik wil leren leven uit mijn hart en niet alleen voldoen aan de verwachting van mijn omgeving
 
-
 #### Relaties:
-- Ik kom steeds in conflict met een bepaald type personen en ik weet niet hoe dat dit komt. 
+- Ik kom steeds in conflict met een bepaald type persoon en ik weet niet hoe dat dit komt. 
 - Ik heb het gevoel dat het steeds meer moeite kost om mezelf te kunnen zijn bij anderen.
 - Ik merk dat ik ander gedrag ga vertonen als ik bij anderen ben, gedrag wat ik helemaal niet wil en toch doe ik het.
 - Het lukt mij niet goed om conflicten aan te gaan en goed op te lossen.
@@ -51,9 +50,9 @@ Een coachingstraject start bij jouw coachingsvragen.
 
 Als deze vragen helder zijn is dat mooi. Als het niet zo is dan maken we in het eerste gesprek de vraag of vragen concreet.
 
-Iets wat jouw voortdurend boos maakt, onzeker, ontevreden maakt of juist nieuwsgierig kan al voldoende zijn. misschien wordt je wel ergens blij van en geeft het je energie. Dit kan allemaal leiden naar een succesvol coachingstraject waarbij jij komt op het punt waar je tevreden over bent.
+Iets wat jouw voortdurend boos maakt, onzeker, ontevreden maakt of juist nieuwsgierig kan al voldoende zijn. Misschien wordt je wel ergens blij van en geeft het je energie. Dit kan allemaal leiden naar een succesvol coachingstraject waarbij jij komt op het punt waar je tevreden over bent.
 
-Op grond van een eerste gesprek zullen we jouw  persoonlijke coachingsvraag in beeld brengen. Daarbij zullen we de lijnen van het coachingstraject uitzetten en bespreken hoe we je streefdoelen kunnen realiseren.
+Op grond van een eerste gesprek zullen we jouw persoonlijke coachingsvraag in beeld brengen. Daarbij zullen we de lijnen van het coachingstraject uitzetten en bespreken hoe we je streefdoelen kunnen realiseren.
 In de contractering maken we heldere afspraken over de tijdsduur, de gezamenlijke inspanning en de kosten.
 
 Wil je meer informatie ontvangen of informeren naar de mogelijkheden neem dan gerust contact op: **<a href="mailto:info@knot.consulting">info@knot.consulting</a>**
