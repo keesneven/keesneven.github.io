@@ -53,3 +53,8 @@ _"Je hebt me verder geholpen, je bent een echte vakman!"_
 Het coachtraject heeft mij geholpen om weer grip te krijgen op mijn leven en verder te kunnen daar waar ik vastgelopen was. 
 Kees coacht op een hele prettige manier: rustig en doordacht, waarbij hij op mijn issues reageert zonder oordeel. Hij is in staat om maatwerk te leveren, wat maakte dat ik in staat was om de dingen die ik leerde ook toe te passen en er werkelijk dingen in mijn leven zijn veranderd."- 
 
+-"De wijze van coachen helpt mij om vanuit een ander perspectief naar mijn coachvraag te kijken. Het doet meer àppel op de bijbehorden beleving en de betekenis ervan"-
+
+-"Je maakt op een liefdevolle manier duidelijk dat ik mijn frustratie aan het opstapelen was. Je voelde mee aan waar de frustratie vandaan kwam en je hebt me inzicht gegeven dat ik beter voor mijzelf mocht zorgen"-
+
+-"Er was direct vertrouwen vanwege zijn echtheid en geïnteresseerdheid, het voelt als behandeld worden vanuit liefde"_
