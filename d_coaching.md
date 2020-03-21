@@ -8,7 +8,7 @@ meta-desc: Een coach helpt je om te komen van de plek waar je nu bent naar de pl
 meta-tags: ontwikkelcoach, transformissioneel, transformationeel veranderen, motivatie, coachinsvraag, coachtraject, coachproces, droom, doelbepaling, bestemming, zingeving, streefdoelen, christelijke coach
 ---
 
-**Een goede coach helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn**. 
+**Een coach helpt jou om van de plaats waar je nu bent te komen op de plaats waar je wilt zijn**. 
 
 Coaching is motivatie op gang brengen om te veranderen en jou te helpen om te komen je wil zijn. Dit kan jouw droom of ideaal, een doel of bestemming zijn. Samen sta je sterk en twee weten meer dan een. Ieder mens heeft bevestiging en aanmoediging nodig en dit geldt zeker als je iets wilt bereiken of veranderen. Wat we zien in de topsport geldt voor ieder doel. We hebben als mens iemand nodig die ons zelf laat ontdekken waar we goed in zijn, wat we goed kunnen en wat we belangrijk vinden.
 
