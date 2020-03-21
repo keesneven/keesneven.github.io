@@ -21,20 +21,20 @@ Het trainen van je sterktes is veel plezieriger en helpt meestal ook om de zwakt
 Voor groepen kan het helpen om elkaars kracht te gaan leren benutten ipv de beschikbare energie te verliezen op de verschillen.
 
 #### Bij trainingen kun je aan de volgende onderwerpen denken:
-- Training Omgaan met veranderingen.
+- Omgaan met veranderingen.
 - Conflicthantering.
 - Omgaan met agressie.
-- Time management training.
-- Training Veerkrachtig worden en blijven.
-- Aandachtsstrainig
-- Leidersschap trainingen.
-- Training groepsdynamiek.
-- Training omgaan met lastige emoties in het werk.
-- Training keuzes maken bij ethische dilemma's.
+- Time-management.
+- Veerkrachtig worden en blijven.
+- Aandachtsstrainig.
+- Leidersschaptraining.
+- Groepsdynamieken.
+- Omgaan met lastige emoties in het werk.
+- Keuzes maken bij ethische dilemma's.
 
 
 Trainingen zijn maatwerk. In een kennismakingsgesprek wordt de trainingsbehoefte vastgesteld. 
-Vervolgens wordt er een trainingsplan gemaakt en dit wordt met elkaar besproken. Alle afspraken (datums, tijden, trainingslocatie,  onderwerpen, kosten en vergoedingen) worden van tevoren duidelijk in een offerte aangegeven en bij akkoord uitgevoerd op de vooraf afgesproken wijze.
+Vervolgens wordt er een trainingsplan gemaakt en dit wordt met elkaar besproken. Alle afspraken (datums, tijden, trainingslocatie, onderwerpen, kosten en vergoedingen) worden van tevoren duidelijk in een offerte aangegeven en bij akkoord uitgevoerd op de vooraf afgesproken wijze.
 
 Voor vragen of meer informatie kunt u mailen naar:
 info@knot.consulting
