@@ -5,7 +5,7 @@ permalink: /diensten/bemoediging/
 img-path: /assets/img/bg5.jpg
 ---
 
-**Een goede bemoediger helpt jou om jezelf bij jezelf te blijven in de corona crisis.**
+**Een bemoediger helpt jou om jezelf bij jezelf te blijven in de corona crisis.**
 Belangrijke levensgebeurtenissen zoals het meemaken van geboortes en sterfgevallen, trouwen en scheiden, ander werk en verhuizen, ziekte en werkeloosheid kunnen je in normale situatie al danig uit je evenwicht brengen. Laat staan wat het deze corono crisis met je kan doen, zeker als het nog even gaat duren.
 
 Het corona-virus kan kort maar ook lang duren. Een Bemoediger helpt je vol te houden om tot herstel en genezing te komen. Of om te aanvaarden wat onveranderbaar is.
