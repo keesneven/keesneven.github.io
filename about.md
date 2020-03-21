@@ -14,8 +14,8 @@ Tijdens de Middelbare Technische School werd ik vanwege ziekte van mijn vader al
 - Bachelor Social Work (MWD)
 - Post HBO: Management voor non-profit organisaties
 - 8 jaar ervaring (team)leider Jeugdwerk
-- 8 jaar ervaring als teamleider bij de Hoop ggz
-- 14 jaar ervaring met groepswerk in de psychiatrie en Maatschappelijke Opvang
+- 12 jaar ervaring als teamleider bij de Hoop ggz
+- 17 jaar ervaring met groepswerk in de psychiatrie en Maatschappelijke Opvang
 - Verzorgen van spreekbeurten, trainingen en workshops over groei en verandering
 - Diverse korte cursussen en trainingen, o.a. Train de trainers, Sprekerstraining, Coachend leidinggeven aan vrijwilligers,            Werken in de nieuwe GGZ
 - Ervaring met opzetten van nieuwe projecten en vernieuwen van bestaande projecten
