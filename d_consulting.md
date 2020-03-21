@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Counseling
-permalink: /diensten/counseling/
+title: Bemoediging
+permalink: /diensten/bemoediging/
 img-path: /assets/img/bg5.jpg
 ---
 
@@ -19,7 +19,7 @@ Enkele voorbeelden om contact op te nemen zijn:
 - Je hebt angst en weet niet hoe je daar wat losser van kan komen.e
 - je bent bang om dood te gaan en wil dat met iemand delen die het niet verder vertelt.
 - Je bent verdrietig en het lukt maar niet om daar uit te komen.
-- Enz. Enz.J
+- Enz. Enz.
 
 
 Bij Bemoediging proberen we meerdere kanten van je vraag of probleem te bekijken. We zoeken samen naar een perspectief, waardoor je weer moed krijgt voor de volgende stap. 
