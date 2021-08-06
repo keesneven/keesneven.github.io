@@ -37,5 +37,5 @@ Het opzetten van kleinschalige (zelfvoorzienende) woongroepen in dorpen of buite
 
 
 #### Belangstelling?
-Als u belangstelling heeft kunt u dit kenbaar maken via info@knot.consulting.
+Als u belangstelling heeft kun u dit aangeven via info@knot.consulting.
 Ik neem dan contact met u op en we bespreken de mogelijkheden. Als het beide tot tevredenheid stemt maken we afspraken over de  datum(s), tijd, plaats en (on)kosten.
