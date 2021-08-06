@@ -22,11 +22,11 @@ Een coachvraag hoeft nog niet helder te zijn, enkele voorbeelden waar je aan den
 #### Persoonlijke ontwikkeling:
 - Ik wil zicht krijgen op verder ontwikkeling van mijn talenten en kwaliteiten.
 - Ik wil mijn gedrag beter leren begrijpen.
-- Ik heb het idee dat ik geleefd word
-- Ik weet niet goed weet wie ik nu zelf ben en wat ik zelf wil
+- Ik heb het idee dat ik geleefd word.
+- Ik weet niet goed weet wie ik nu zelf ben en wat ik zelf wil.
 - Ik doe wel veel, maar ik weet niet waar ik nu echt goed in ben en wat bij mij past.
 - Ik wil beter naar mijn gevoel leren luisteren zonder mijn verstand uit te schakelen.
-- Ik wil leren leven uit mijn hart en niet alleen voldoen aan de verwachting van mijn omgeving
+- Ik wil leren leven uit mijn hart en niet alleen voldoen aan de verwachting van mijn omgeving.
 
 #### Relaties:
 - Ik kom steeds in conflict met een bepaald type personen en ik weet niet hoe dit komt. 
@@ -34,7 +34,7 @@ Een coachvraag hoeft nog niet helder te zijn, enkele voorbeelden waar je aan den
 - Ik merk dat ik ander gedrag ga vertonen als ik bij anderen ben, gedrag wat ik helemaal niet wil en toch doe.
 - Het lukt mij niet goed om conflicten aan te gaan.
 
-#### Werk
+#### Werk:
 - Ik wil mij verder ontwikkelen op mijn werk.
 - Ik raak op mijn werk in conflict tussen wat ik wil en wat het bedrijf nodig vindt.
 - Ik zie de zin van mijn werk niet meer zo in.
@@ -45,9 +45,9 @@ Een coachvraag hoeft nog niet helder te zijn, enkele voorbeelden waar je aan den
 - Ik krijg mijn werk niet af!
 
 #### Zingeving:
-- Ik wil van betekenis zijn en wil ontdekken wat bij mij past
+- Ik wil van betekenis zijn en wil ontdekken wat bij mij past.
 - het lukt mij niet om mijn geloof een plaats te geven in mijn dagelijks leven.
-- Ik twijfel steeds of ik wel op de goede plaats bezig ben
+- Ik twijfel steeds of ik wel op de goede plaats bezig ben.
 - Ik heb het niet meer naar mijn zin.
 
 Een coachtraject start bij jouw coachvraag.
