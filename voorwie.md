@@ -10,11 +10,11 @@ Bijzondere en gewone mensen kunnen bij KNOT terecht. Mensen met ingewikkelde en 
 
 ## Gebieden
 Zoals een knotwilg vaak te vinden is op de grens van land en water, zo wil KNOT iets betekenen voor vragen die liggen in de grensgebieden.
-Het werken op de snijvlakken van bijvoorbeeld b.v. talent of doorgeschoten kwaliteit, psychiatrie en religie (of demonie), profetie en psychose, mogelijkheden en beperkingen, onkunde en onwil, alleen of samen, groep en individu.
+Het werken op de snijvlakken van bijvoorbeeld talent of doorgeschoten kwaliteit, psychiatrie en religie (of demonie), profetie en psychose, mogelijkheden en beperkingen, onkunde en onwil, alleen of samen, groep en individu.
 Bij een goed advies hoort ook doorverwijzen. Als een ander u beter kan helpen vertel ik u dit. U krijgt ook advies hoe u deze hulp kunt krijgen.
 
 Ik zal u ook vertellen welke aanpak het beste lijkt en wat daarbij past. Als u voor coaching komt en er is (ook) counseling nodig dan hoort u dat van mij. Als u voor counseling komt en een training zou u kunnen helpen, dan zal ik dit advies geven.
 
-Omdat ik werk op snijvlakken van grensgebieden kan ik u ook het advies geven om een andere deskunde te raadplegen. U kunt dan denken aan een psycholoog, psychiater, huisarts, arbo-arts of andere medische specialist. Dit ligt buiten mijn vakgebied. 
+Omdat ik werk op snijvlakken van grensgebieden kan ik u ook het advies geven om een andere deskundigee te raadplegen. U kunt dan denken aan een psycholoog, psychiater, huisarts, arbo-arts of andere medische specialist. Dit ligt buiten mijn vakgebied. 
 Ik kan u ook adviseren om een deskundig op enig ander vakgebied te raadplegen, als dit mijn vakgebied overstijgt. Ik heb namelijk geen verstand genoeg van verzekeringen, belastingen, makelaardij, boekhouding, schuldhulpverlening of arbeidsrecht.
 U mag van mij verwachten dat ik eerlijk en transparant ben en met u bespreek wat (on)mogelijk is.
