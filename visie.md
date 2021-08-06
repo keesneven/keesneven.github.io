@@ -7,7 +7,7 @@ img-path: /assets/img/bg1.jpg
 ---
 
 #### Mensbeeld
-Bij KNOT wordt een holistisch mensbeeld gehandteerd. Het uitgangspunt daarbij is dat lichaam, ziel en geest met elkaar samenwerken en dat storingen, herstel en verbeteringen doorwerken in de andere delen.
+Bij KNOT wordt een holistisch mensbeeld gehanteerd. Het uitgangspunt is dat lichaam, ziel en geest met elkaar samenwerken en dat storingen, herstel en verbeteringen doorwerken in de andere delen.
 
 Wij nemen als vertrekpunt dat de mens door zijn Schepper is gewild en geschapen. We nemen aan dat de mens bedoeld is om in duurzame relaties een liefdevol leven te leven met zichzelf, de ander en de Schepper. We nemen aan dat ieder mens een rol van betekenis kan vervullen in zijn leven. De betekenis kan in het hier en nu liggen, maar ook pas later zijn bestemming krijgen. Het kan in het tastbare leven hier op aarde zijn of in het onzichtbare bovennatuurlijke. Wij geloven dat de mens een bepaalde tijd hier op aarde is en na zijn dood eeuwig leeft. Wij geloven dat de mens in dit leven zijn Schepper kan ontmoeten om daardoor en daarna het eeuwige leven met zijn Schepper door te brengen. 
 
@@ -45,4 +45,4 @@ Mensen helpen om opnieuw te beginnen;
 - Om na een moeilijke periode opnieuw kracht te vinden om verder te gaan. 
 - Om nieuwe initiatieven te vinden. 
 - Om opnieuw uit te lopen en weer stevig te wortelen. 
-- Om moeilijkheden te helpen overwinnen, dat is mijn visie en missie die ik terugzie in het beeld van de KNOTwilg. 
+- Om moeilijkheden te helpen overwinnen, dat is de visie en missie die ik terugzie in het beeld van de KNOTwilg. 
