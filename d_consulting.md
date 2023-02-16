@@ -6,7 +6,7 @@ img-path: /assets/img/bg5.jpg
 ---
 
 **Dit boek helpt jou om te leren leven vanuit je hart.**
-In dit boekbeschrijft de zoektocht van een zoon die op zoek is naar zijn eigen hart. Als hij deze in eerste instantie niet kan vinden, zoekt hij het ver weg. Als hij het daar ook niet kan vinden keert hij terug naar huis. Daar ontmoet hij het hart van zijn vader die hem zijn eigen hart helpt te ontdekken. De zoon durft het nu wel te aanvaarden dat hij een zoon is en gaat op weg om te groeien naar een volwassen zoon, die uiteindelijk helpt om anderen om hun hart en elkaars hart te vinden. Dochters die dit boek gelezen hebben zijn er enthousiast over, het is dus niet alleen voor mannen!
+In dit boekbeschrijft de zoektocht van een zoon die op zoek is naar zijn eigen hart. Als hij deze in eerste instantie niet kan vinden, zoekt hij het ver weg. Als hij het daar ook niet kan vinden keert hij terug naar huis. Daar ontmoet hij het hart van zijn vader die hem zijn eigen hart helpt te ontdekken. De zoon durft het nu wel te aanvaarden dat hij een zoon is en gaat op weg om te groeien naar een volwassen zoon, die uiteindelijk helpt om anderen om hun hart en elkaars hart te vinden. Dochters die dit boek gelezen hebben zijn er enthousiast over, het is dus niet alleen voor mannen! 
 
 Het verhaal van de verloren zoon is eigenlijk het verhaal van de zoekende wees. Het is een eeuwenoud en actueel verhaal. Het is deels mijn verhaal en het verhaal van vele anderen. Deze ervaringen zijn verwerkt in dit boek wat uit drie delen bestaat:
 I. Gevonden worden.
