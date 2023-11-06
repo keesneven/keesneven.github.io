@@ -5,14 +5,14 @@ permalink: /diensten/advies/
 img-path: /assets/img/bg3.jpg
 
 meta-desc: Goede raad helpt je om de juiste keuze te maken en het juiste pad te kiezen richting toekomst
-meta-tags: advies, toekomst, toekomstgericht, kort advies, huwelijk, loopbaan, zingeving, levensweg, studiekeuze, beroepskeuze, relatieadvies, loopbaanadvies, persoonlijk advies, christelijk advies
+meta-tags: advies, toekomst, toekomstgericht, kort advies, huwelijk, loopbaan, zingeving, levensweg, studiekeuze, beroepskeuze, relatieadvies, loopbaanadvies, persoonlijk advies, christelijk advies, organisatieontwikkeling, persoonlijke ontwikkeling, teamontwikkeling, 
 ---
 
 **De goede raad van een adviseur helpt jou om het juiste pad te kiezen.**
-Een droom, missie of opdracht verwezenlijken kan vaak op verschillende manieren.
+Een droom, missie of opdracht verwezenlijken kan op verschillende manieren.
 Een doel kan vaak via verschillende routes bereikt worden. 
 Een verandering kan op meerdere manieren in beweging gezet worden.
-Een probleem kan vaak op verschillende manieren opgelost worden.
+Een probleem kan meestal op verschillende manieren opgelost worden.
 
 Een goed advies leidt naar een succesvol plan met meer kans van slagen.
 Een advies om op de juiste manier om te gaan met onomkeerbare zaken zoals een ingrijpend verlies is ook een vorm van adviseren.
@@ -47,7 +47,7 @@ Adviseren kan op veel gebieden. Het kan een kort advies zijn wat nodig is, of ee
 - We hebben allemaal verschillende ideeën en komen op deze manier niet goed uit de verf, wat kunnen we doen?
 - We staan voor ingrijpende keuzes, hoe weten we dat ze de beste keuze maken?
 - We hebben een ander leiderschapsstijl nodig in onze groep, hoe doen we dit?
-- Hoe worden we een zelfsturend team?
+- Hoe worden we een samensturend team?
 
 
 Een traject begint met een kennismakingsgesprek waarbij de adviesvraag verhelderd wordt. 
