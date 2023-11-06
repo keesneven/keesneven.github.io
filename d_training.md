@@ -16,7 +16,7 @@ Trainingen kunnen over allerlei onderwerpen gaan en zowel individueel als in gro
 
 Er worden regelmatig trainingen ingezet om ontbrekende vaardigheden, houding en kennis te verbeteren of aan te vullen. Hoe nodig het ook is, dit kan demotiverend werken als dit je zwakke kant betreft.
 
-Het trainen van je sterktes is veel plezieriger en helpt meestal ook om de zwaktes op hoger peil te krijgen.
+Het trainen van je kracht en talent is veel plezieriger en helpt meestal ook om de zwakte kanten op hoger peil te krijgen.
 
 Voor groepen kan het helpen om elkaars kracht te gaan leren benutten in plaats van de beschikbare energie te verliezen op de verschillen.
 
